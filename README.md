@@ -9,3 +9,5 @@ Creacion
 - 
 Referecias:
 [Google](https://www.google.com)
+def hola_mundo():
+    print("Hola, mundo!"
