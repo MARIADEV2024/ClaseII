@@ -1,5 +1,5 @@
 # ClasesDosMaria
-## Titulo dos Maria
+## Autor Maria
 Creacion de repositorio y manejo de MarkDown 
 # ClasesdeProgramacionll
 # Bienvenida
