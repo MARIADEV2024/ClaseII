@@ -25,5 +25,5 @@ def hola_mundo():
 | Texto 4      | Texto 5      | Texto 6      |
 
 <p align="center">
-<img src="LOGOS.JPEG" height="100">
+<img src=logos.jpg" height="100">
 </p>
