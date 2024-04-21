@@ -25,6 +25,5 @@ def hola_mundo():
 | Texto 4      | Texto 5      | Texto 6      |
 
 <p align="center">
-<img src"./logos
-    \Users\labinf1.pasto\Documents\GitHub\Curso-Explorador\Logos
+<img src"./Logos/gatjpg">
 </p>
