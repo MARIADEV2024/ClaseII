@@ -25,7 +25,7 @@ def hola_mundo():
 | Texto 4      | Texto 5      | Texto 6      |
 
 <p align="center">
-<img src"./Logos/gatjpg">
+<img src="./Logos/gat.jpg" height="200">
 </p>
 # Tablas
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
